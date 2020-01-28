@@ -1,1 +1,1 @@
-# -Codeigniter-PHP-JewelleryManagement-700bm700700
+# Codeigniter-PHP-JewelleryManagemnt-700bm700
